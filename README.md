@@ -17,8 +17,8 @@ Currently available routes are:
   - `/account/`
   - `/account/{id}`
 
-POST 
-  `/account/` with body:
+- POST
+  - `/account/` with body:
 
 ```json
     {
@@ -32,4 +32,4 @@ POST
 - [ ] Add front-end to view bank account
 - [ ] Optimize JWT authentication
 - [ ] Create login system
-  - [ ] Integrate jwt token for logins
+  - [ ] Integrate jwt token for login
