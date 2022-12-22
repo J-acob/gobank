@@ -4,6 +4,6 @@ A work in progress bank api built from scratch using golang. Built by following 
 
 ## Todo
 
-- [] Add front-end to view bank account
-- [] Create login system
-  - [] Integrate jwt token for logins
+- [ ] Add front-end to view bank account
+- [ ] Create login system
+  - [ ] Integrate jwt token for logins
